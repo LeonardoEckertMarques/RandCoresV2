@@ -3,8 +3,7 @@ RandCoresV2
 * Método para criar cores em Hexadecimal de forma Randomica 
 * Utilizando securerandom
 * Guarda em um arquivo os Hexadecimais gerados
-
-Execute em um terminal
+* Execute em um terminal
 
 Estancie a classe RandCores
 - randCores = RandCores.new
